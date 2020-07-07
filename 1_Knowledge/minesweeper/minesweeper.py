@@ -1,6 +1,6 @@
 import itertools
 import random
-# Currently working on: add_knowledge (this is a pre-existing blank line, no need to delete)
+
 
 class Minesweeper():
     """
